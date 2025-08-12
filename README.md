@@ -7,14 +7,16 @@ A simple Bash script to search YouTube directly from the terminal using your que
 - URL-encodes your query safely (using jq)
 - Opens results in Brave Browser
 
+
+![yts](https://github.com/user-attachments/assets/a512c2fc-1dfa-4b9c-bb34-8803a50df34f)
+
+
 ### Requirements:
 **jq**, **brave-browser**
 
 sudo apt update
 
 sudo apt install jq brave-browser
-
-![yts](https://github.com/user-attachments/assets/a512c2fc-1dfa-4b9c-bb34-8803a50df34f)
 
 
 ### Installation
