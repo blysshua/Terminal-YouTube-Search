@@ -23,7 +23,13 @@ sudo apt install jq brave-browser
 - sudo mv ytsearch.sh /usr/local/bin/ytsearch
 
 ### Suggestion 
+open bashrc
 - nano ~/.bashrc
 
-create alias
+create alias. add:
 - alias yts='ytsearch'
+
+save + close: ctrl+o, ctrl+x
+
+update bashrc
+- source ~/.bashrc
