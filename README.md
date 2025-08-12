@@ -19,6 +19,9 @@ sudo apt update
 sudo apt install jq brave-browser
 
 
+(you can use any browser. I'm just using what i already have installed)
+
+
 ### Installation
 - git clone https://github.com/blysshua/Terminal-YouTube-Search.git
 - cd Terminal-YouTube-Search
