@@ -24,5 +24,6 @@ sudo apt install jq brave-browser
 
 ### Suggestion 
 - nano ~/.bashrc
+
 create alias
 - alias yts='ytsearch'
