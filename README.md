@@ -19,7 +19,7 @@ sudo apt update
 sudo apt install jq brave-browser
 
 
-(you can use any browser. I'm just using what i already have installed)
+(you can use any browser. I'm using what i already have installed, just make sure to change "brave-browser" out in the .sh with whatever browser you use)
 
 
 ### Installation
