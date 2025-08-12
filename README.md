@@ -17,6 +17,12 @@ sudo apt install jq brave-browser
 [put gif here]
 
 ### Installation
-
+- git clone https://github.com/blysshua/Terminal-YouTube-Search.git
+- cd Terminal-YouTube-Search
+- chmod +x ytsearch.sh
+- sudo mv ytsearch.sh /usr/local/bin/ytsearch
 
 ### Suggestion 
+- nano ~/.bashrc
+create alias
+- alias yts='ytsearch'
