@@ -30,7 +30,7 @@ cd Terminal-YouTube-Search
 chmod +x ytsearch.sh
 sudo mv ytsearch.sh /usr/local/bin/ytsearch
 ```
-### Suggestion 
+### Optional 
 open bashrc
 ```bash
 nano ~/.bashrc
