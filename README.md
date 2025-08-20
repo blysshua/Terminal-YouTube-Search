@@ -16,27 +16,32 @@ A simple Bash script to search YouTube directly from the terminal using your que
 
 ```bash
 sudo apt update
+```
 ```bash
 sudo apt install jq brave-browser
 
-
+```
 (you can use any browser. I'm using what i already have installed, just make sure to change "brave-browser" out in the .sh with whatever browser you use)
 
 
 ### Installation
-- git clone https://github.com/blysshua/Terminal-YouTube-Search.git
-- cd Terminal-YouTube-Search
-- chmod +x ytsearch.sh
-- sudo mv ytsearch.sh /usr/local/bin/ytsearch
-
+```bash
+git clone https://github.com/blysshua/Terminal-YouTube-Search.git
+cd Terminal-YouTube-Search
+chmod +x ytsearch.sh
+sudo mv ytsearch.sh /usr/local/bin/ytsearch
+```
 ### Suggestion 
 open bashrc
-- nano ~/.bashrc
-
+```bash
+nano ~/.bashrc
+```
 create alias. add:
-- alias yts='ytsearch'
-
+```bash
+alias yts='ytsearch'
+```
 save + close: ctrl+o, ctrl+x
 
 update bashrc
+```bash
 - source ~/.bashrc
