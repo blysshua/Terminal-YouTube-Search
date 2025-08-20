@@ -43,4 +43,4 @@ save + close: ctrl+o, ctrl+x
 
 update bashrc
 ```bash
-- source ~/.bashrc
+source ~/.bashrc
