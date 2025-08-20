@@ -16,8 +16,7 @@ A simple Bash script to search YouTube directly from the terminal using your que
 
 ```bash
 sudo apt update
-```
-```bash
+
 sudo apt install jq brave-browser
 
 ```
