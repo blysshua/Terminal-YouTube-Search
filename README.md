@@ -39,7 +39,7 @@ create alias. add:
 ```bash
 alias yts='ytsearch'
 ```
-save + close: ctrl+o, ctrl+x
+save + close: ctrl+o, enter, ctrl+x
 
 update bashrc
 ```bash
